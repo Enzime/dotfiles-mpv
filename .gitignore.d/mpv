@@ -2,5 +2,6 @@
 !/.config
 !/.config/mpv
 !/.config/mpv/input.conf
+!/.config/mpv/mpv.conf
 !/.gitignore.d
 !/.gitignore.d/mpv
